@@ -1,7 +1,7 @@
-﻿#!/usr/bin/env python2.7
+#!/usr/bin/env python2.7
 
 # Gathers a small set of (system resource) facts for all registered hosts
-# within a Satellite 6 setup with hostnames matching searched value 'foobar'.
+# within Satellite 6 as long as theyre hostnames match value 'foobar'.
 
 import csv
 import json
